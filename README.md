@@ -33,7 +33,7 @@
 
 - 🕵️ Investigating suspicious bugs
 - 🎮 Counter-Strike 2 \
-  &nbsp;<img src="niko.webp" height="100" style="vertical-align:middle"/>
+  &nbsp;<img src="niko.webp" height="230" style="vertical-align:middle"/>
 
 <br clear="right"/>
 
