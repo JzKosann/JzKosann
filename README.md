@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=M1+%40+UTokyo+%7C+Mechano-Informatics;Dynamic+Control+System+Lab;Robotics+%C3%97+Control+Theory+%C3%97+ML;Always+on+a+new+case..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=M1+%40+UTokyo+%7C+Mechano-Informatics;Dynamic+Control+System+Lab;Robotics+%C3%97+Control+Theory+%C3%97+ML;Trying+to+be+a+Full-Stack+Embed-AI+Engineer..." alt="Typing SVG" />
 </div>
 
 <br/>
@@ -23,14 +23,16 @@
 - 🌐 [jzkosann.github.io](https://jzkosann.github.io/)
 
 ### 🦾 Currently working on :
-- ✨ Model Predictive Control (MPC / acados)
-- ✨ Sim-to-real transfer with IsaacLab → ROS2
-- ✨ Learning-based motion planning
+- [x] ⚙️ Model Predictive Control (MPC / acados)
+- [ ] 🧠 Learning-based motion planning
+- [ ] 🚀 Sim-to-real transfer with IsaacLab → ROS2
+
 
 ### 🎮 Outside the lab :
-- ✨ Investigating suspicious bugs 🕵️
-- ✨ Mechanical keyboards
-- ✨ Anime & manga
+- 🕵️ Investigating suspicious bugs
+- 🎮 Counter-Strike 2 
+&nbsp;<img src="niko.webp" height="30" style="vertical-align:middle"/> 
+It's today!!! NiKo!!!
 
 <br clear="right"/>
 
@@ -67,8 +69,8 @@
 If you're into robotics, control systems, or just want to talk — feel free to reach out!
 </p>
 
-<a href="mailto:jinzkosann@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<a href="mailto:hong-jinzhong@ynl.t.u-tokyo.ac.jp">
+  <img src="https://img.shields.io/badge/Mail-0d1117?style=for-the-badge&logo=minutemailer&logoColor=9ca3af"/>
 </a>
 <a href="https://github.com/jzkosann">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
