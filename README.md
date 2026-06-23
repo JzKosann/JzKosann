@@ -14,7 +14,7 @@
 
 ## 🤖 About Me
 
-<img align="right" src="privateinvestocat_nobg.png" width="220px"/>
+<img align="right" src="privateinvestocat_nobg.png" width="120px"/>
 
 - 🎓 **M1 Student** @ University of Tokyo
 - 🏛️ Grad. School of Information Science and Technology
