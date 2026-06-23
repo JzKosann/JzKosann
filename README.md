@@ -14,7 +14,7 @@
 
 ## 🤖 About Me
 
-<img align="right" src="privateinvestocat_nobg.png" width="120px"/>
+<img align="right" src="animation_edited.gif" width="200px"/>
 
 - 🎓 **M1 Student** @ University of Tokyo
 - 🏛️ Grad. School of Information Science and Technology
@@ -29,10 +29,10 @@
 
 
 ### 🎮 Outside the lab :
-<img align="right" src="niko.webp" width="120px"/>
+<img align="right" src="animation_champion.gif" width="220px"/>
 
 - 🕵️ Investigating suspicious bugs
-- 🎮 Counter-Strike 2
+- 🎮 Counter-Strike 2 &nbsp;<img src="niko.webp" height="30" style="vertical-align:middle"/>
 
 <br clear="right"/>
 
