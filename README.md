@@ -32,7 +32,8 @@
 <img align="right" src="animation_champion.gif" width="500px"/>
 
 - 🕵️ Investigating suspicious bugs
-- 🎮 Counter-Strike 2 &nbsp;<img src="niko.webp" height="" style="vertical-align:middle"/>
+- 🎮 Counter-Strike 2 \
+  &nbsp;<img src="niko.webp" height="100" style="vertical-align:middle"/>
 
 <br clear="right"/>
 
