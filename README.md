@@ -85,8 +85,8 @@ If you're into robotics, control systems, or just want to talk — feel free to 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jzkosann&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=9ca3af&text_color=6e7681&icon_color=9ca3af&rank_icon=github&include_all_commits=false&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzkosann&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=9ca3af&text_color=6e7681&langs_count=6" />
+  <img height="160" src="https://github-readme-stats-pi-lyart-51.vercel.app/api?username=jzkosann&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=9ca3af&text_color=6e7681&icon_color=9ca3af&rank_icon=github&count_private=true" />
+  <img height="160" src="https://github-readme-stats-pi-lyart-51.vercel.app/api/top-langs/?username=jzkosann&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=9ca3af&text_color=6e7681&langs_count=6" />
 </div>
 
 <br/>
