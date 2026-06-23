@@ -1,27 +1,3 @@
 {
-  "cSpell.words": [
-    "acados",
-    "cplusplus",
-    "demolab",
-    "jzkosann",
-    "jinzkosann",
-    "komarev",
-    "TensorRT",
-    "Tensorrt",
-    "PyTorch",
-    "IsaacLab",
-    "Isaaclab",
-    "ROS",
-    "Docker",
-    "Linux",
-    "TypeScript",
-    "JavaScript",
-    "Frameworks",
-    "Languages",
-    "Python",
-    "Website",
-    "GitHub",
-    "Email",
-    "Tools"
-  ]
+  "cSpell.enabled": false
 }
