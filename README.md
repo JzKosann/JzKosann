@@ -30,8 +30,9 @@
 
 ### 🎮 Outside the lab :
 <img align="right" src="niko.webp" width="220px"/>
+
 - 🕵️ Investigating suspicious bugs
-- 🎮 Counter-Strike 2 \
+- 🎮 Counter-Strike 2 
 It's today!!! NiKo!!!
 
 <br clear="right"/>
