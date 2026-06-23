@@ -29,9 +29,9 @@
 
 
 ### 🎮 Outside the lab :
+<img align="right" src="niko.webp" width="220px"/>
 - 🕵️ Investigating suspicious bugs
-- 🎮 Counter-Strike 2 
-&nbsp;<img src="niko.webp" height="30" style="vertical-align:middle"/> 
+- 🎮 Counter-Strike 2 \
 It's today!!! NiKo!!!
 
 <br clear="right"/>
