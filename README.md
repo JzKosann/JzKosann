@@ -19,7 +19,7 @@
 - 🎓 **M1 Student** @ University of Tokyo
 - 🏛️ Grad. School of Information Science and Technology
 - ⚙️ Dept. of Mechano-Informatics
-- 🔬 Dynamic Control System Lab
+- 🔬 [Dynamic Control System Lab](http://www.ynl.t.u-tokyo.ac.jp/wp/)
 - 🌐 [jzkosann.github.io](https://jzkosann.github.io/)
 
 ### 🦾 Currently working on :
